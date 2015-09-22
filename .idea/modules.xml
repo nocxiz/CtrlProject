@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CtrlProject.iml" filepath="$PROJECT_DIR$/CtrlProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bluetoothSPP/bluetoothSPP.iml" filepath="$PROJECT_DIR$/bluetoothSPP/bluetoothSPP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simpleTCPLibrary/simpleTCPLibrary.iml" filepath="$PROJECT_DIR$/simpleTCPLibrary/simpleTCPLibrary.iml" />
     </modules>
   </component>
 </project>
